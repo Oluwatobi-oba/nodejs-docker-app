@@ -83,13 +83,13 @@ Screenshot showing the application successfully running in a browser.
 ## Deployment Screenshots
 
 ### Docker Image Build
-! [Docker Image Build] (docker-build.png)
+![Docker Image Build](docker-build.png)
 
 ### Docker Image on Docker Hub
-! [Docker Hub Image] (docker-hub.png)
+![Docker Hub Image](docker-hub.png)
 
 ### Running Docker Container
-! [Running Docker Container] (docker-container.png)
+![Running Docker Container](docker-container.png)
 
 ### Live Application
-! [Live Application] (live-app.png)
+![Live Application](live-app.png)
